@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class BusquedaVector {
-
+ // aqui busco vector
 	
 	public static void main(String[] args) {
 		
